@@ -8,8 +8,6 @@
 
 import Foundation
 
-/// check
-
 extension Double {
     static let minTwoMaxSixDigits: NumberFormatter = {
         let formatter = NumberFormatter()
